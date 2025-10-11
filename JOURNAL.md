@@ -15,12 +15,12 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 ![Screenshot 2025-10-10 202001.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQyMywicHVyIjoiYmxvYl9pZCJ9fQ==--0c7749ea35955f57ea7d3ae6c54a21cdcef9f91d/Screenshot%202025-10-10%20202001.png)
 
 
-Finally finished the first part of the research and planning. I've settled on building this thing around a Raspberry Pi Pico W....kinda like thatother fidelity project i was planning on.
+Finally finished the first part of the research and planning. I've settled on building this thing around a Raspberry Pi Zero 2W....kinda like thatother fidelity project i was planning on.
 
 ### **THE MASTER PLAN** 
 
 **CORE**
-It's all based around the Raspberry Pi Pico W which will handle all the processing for both gaming and music. The entire power system is built around it, with USB-C for easy charging.
+It's all based around the Raspberry Pi Zero 2W which will handle all the processing for both gaming and music. The entire power system is built around it, with USB-C for easy charging.
 
 **UI**
 It’s got a bright, landscape color TFT screen for all the visuals. For controls, there's a full set of gaming buttons: a D-Pad, A/B/X/Y, plus Start and Select. To make it feel premium, im adding HAPTIC!
