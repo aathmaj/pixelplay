@@ -29,3 +29,13 @@ It’s got a bright, landscape color TFT screen for all the visuals. For control
 A high-quality I2S digital audio system will drive both a built-in speaker and a headphone jack (maybe bluetooth too). All the games and music will be loaded from a microSD card slot.
   
 
+## 10/11/2025 - Updates  
+
+Made new updates:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a7f2ce0014a6746b25e8514eb4c25f435e6ef54d/image.png)
+
+We are going to add triggers on the back of the console, right on top of where the battery will be placed as you can see in the crude diagram I have attached above. We will also be adding features to spport using a dock in the future, kinda like the nintendo switch. 
+
+Also finalised base hardware and bom.  
+
