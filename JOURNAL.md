@@ -39,3 +39,21 @@ We are going to add triggers on the back of the console, right on top of where t
 
 Also finalised base hardware and bom.  
 
+## 10/12/2025 - Mockup and basic battery and circuit protection circuit made  
+
+### Mockup and Battery Protection
+
+Finished a basic mockup which ill be basing the project on. I've made my battery protection circuit using DW01A and FS8205A boards.
+
+I used blender to make a quick mockup of how i want the project to look...
+
+![Untitled.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgxNywicHVyIjoiYmxvYl9pZCJ9fQ==--0505987a06f4b2b2bccd1a6722b318b582325108/Untitled.png)
+
+The DW01A is a battery protection IC and the FS8205A acts as an efficient switch to protect against overcurrent by switching power paths.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--c65b9621058c599788100a1014e262baa41e53cb/image.png)
+
+
+
+  
+
