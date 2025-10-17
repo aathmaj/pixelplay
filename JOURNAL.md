@@ -57,3 +57,12 @@ The DW01A is a battery protection IC and the FS8205A acts as an efficient switch
 
   
 
+## 10/17/2025 - Fixed errors and routed pcb  
+
+I just realised the circuit in the other photo wasnt completely refined so i went ahead and fixed it. I finished routing the PCB.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--43585fa02d8569df054cae1f6d21a50afab4ce46/image.png)
+
+This PCB will serve as the main battery protection circuit, which I have decided to leave as seperate module. Next step of the process will be making the I2S DAC circuit.
+   
+
