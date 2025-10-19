@@ -66,3 +66,16 @@ I just realised the circuit in the other photo wasnt completely refined so i wen
 This PCB will serve as the main battery protection circuit, which I have decided to leave as seperate module. Next step of the process will be making the I2S DAC circuit.
    
 
+## 10/19/2025 - Completed 5V boost controller schematic  
+
+I completed the schematic for the voltage boost controller circuit. It uses the MT3608, which is a small frequency step up converter.
+
+I started with the MT3608 and built the circuit using thestandard parts for the circuit. Ive also added a trimmer potentiometer so that I can set the output voltage to any value up to 28 V for further applications.
+
+Most of the time spent on the project is research into how ill be making the circuit.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--61ebe0209c93ddc33478163cc6b67de85e4f377c/image.png)
+
+Ive also completed base research into how ill be making the next part, the I2S DAC circuit.
+  
+
