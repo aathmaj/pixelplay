@@ -79,3 +79,18 @@ Most of the time spent on the project is research into how ill be making the cir
 Ive also completed base research into how ill be making the next part, the I2S DAC circuit.
   
 
+## 10/20/2025 - Made some changes and routed PCB  
+
+I found a fatal design flaw, where if Icranked up the resistor to 100k ohm it would fry the MT3608. Fixed it, also changed the design to use polarized tantalum capacitors which have a low ESR, unlike normal electrolytic capacitors.
+
+Here is the schematic: ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNywicHVyIjoiYmxvYl9pZCJ9fQ==--ac5e396a5d18671cd47c1b22fced18a5b1a064e4/image.png)
+
+
+I also finished routing the pcb, which took around 30 mins as it was rather simple wih only a few components. What took up most of the time was doing research for the required trace thickness I would require for the best possible results.
+
+Here is the routing:![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--782a4e5418eb9aedaea3a475bedaf20fd9d55f8e/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--51c46de73423641909954369e43dbd8f8cccd658/image.png)
+
+
+  
+
