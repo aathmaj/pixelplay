@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **PixelPlay**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/386).
-
-
 ## 10/10/2025 - Reasearch and basic concept made. Parts planned out.   
 
 ![Screenshot 2025-10-10 202001.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQyMywicHVyIjoiYmxvYl9pZCJ9fQ==--0c7749ea35955f57ea7d3ae6c54a21cdcef9f91d/Screenshot%202025-10-10%20202001.png)
@@ -91,6 +87,13 @@ I also finished routing the pcb, which took around 30 mins as it was rather simp
 Here is the routing:![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--782a4e5418eb9aedaea3a475bedaf20fd9d55f8e/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--51c46de73423641909954369e43dbd8f8cccd658/image.png)
 
+
+  
+
+## 10/24/2025 - Combined both PCBs for an integrated circuit. Routed PCB  
+
+Decided to switch to a PCB that has both the boost IC and power protection circuit to save costs on PCB manufacturing. Added net ports and finished routing. Came across a problem due to trace widths which I fixed using 0.6 as the min track width. I also positioned the pins strategically for the entire project. Also added gnd pours. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e1553524465f3c02ade97b6634c93f7aa9bc5f7a/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--9ec7af47c365ba742ca63fef115180689883b18a/image.png)
 
   
 
