@@ -97,3 +97,15 @@ Decided to switch to a PCB that has both the boost IC and power protection circu
 
   
 
+## 10/26/2025 - Made BOM (excluding 3d prints)  
+
+I made the bill of materials for the project as I have completed the core of the project. All that is now left is making the case and buttons.
+
+[CLICK FOR BOM](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ad8c8fefc4a8e7eb8322191a9bfb185391957a7/Unnamed%20List(1)%20-%20My%20Lists%20Worksheet.csv)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--cbbeb7b4de2e707f3577f89704fc3e6af3a01b63/image.png)
+_BOM is bound to changes as desired by me (with proper reasons of course)_
+
+Most of the time taken was due to most of the parts I used while making the PCB not being avaliable. I had to find alternatives and source better/cheaper parts. The current total is $53.5 excluding shipping and taxes. 
+
+The next part of the project will be making the case and buttons. The plan is to make buttons which have a conductive surface on the bottom which will hit a perfboard ill make so that itll trigger the button commands with the GPIO pins being connected to GND.  
+
