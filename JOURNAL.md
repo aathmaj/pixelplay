@@ -109,3 +109,17 @@ Most of the time taken was due to most of the parts I used while making the PCB 
 
 The next part of the project will be making the case and buttons. The plan is to make buttons which have a conductive surface on the bottom which will hit a perfboard ill make so that itll trigger the button commands with the GPIO pins being connected to GND.  
 
+## 10/29/2025 - Made case   
+
+I made the case/housing. Its basic with 4 parts:
+
+- Front Cover (the top which includes all button holes.)
+- Backplate (a plate behind the screen to cover the back)
+- Back cover (bottom/back with trigger holes(also supports the battery and rpi)
+- A border for the screen
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--cef2f6e33c51121a20543a45d3545bd7d77ec04e/image.png)
+
+I will finish the button designs soon with the dpad, volume and trigger buttons. I will also position the port hole on the case.
+  
+
