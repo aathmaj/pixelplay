@@ -123,3 +123,11 @@ I made the case/housing. Its basic with 4 parts:
 I will finish the button designs soon with the dpad, volume and trigger buttons. I will also position the port hole on the case.
   
 
+## 11/7/2025 - Completed project  
+
+I fixed all issues, completed sourcing the parts and also finished the 3d models. 
+
+I also updated the pcb to house a different 22uH inductor, as I couldnt find the original one for cheap on sharvielecronics.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa9eece1aa908c942a47e032ccd5dd45ed4ea95c/image.png)
+  
+
