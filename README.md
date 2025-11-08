@@ -41,6 +41,10 @@ It's designed to be an iPod for  music, and a Game Boy for everything up to the 
 The Pi Zero 2 W is connected to the display hat, with wiring from the remaining GPIO pins to respective components.
 
 ### 2. Custom Power Circuit
+
+<img width="650" height="693" alt="image" src="https://github.com/user-attachments/assets/2193fa74-bc84-4584-95e3-443974a0398e" />
+
+
 Instead of an expensive module, the power system is built from individual ICs on the PCB.
 * **Path:** USB-C 5V $\rightarrow$ **TP4056** $\rightarrow$ Charges LiPo Battery.
 * The LiPo Battery is protected by the **DW01A/FS8205A** circuit.
