@@ -1,5 +1,11 @@
 # PixelPlay
 
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2564dd21-5b35-4319-ba27-ffbea5cbc045" />
+
+
+
 A custom-built, Pi Zero 2 W handheld for retro gaming and high-fidelity audio, wrapped in a 3D-printed, iPod-inspired case.
 
 
@@ -112,5 +118,11 @@ This is a high-fidelity 4-wire audio chain.
 
 ## CASE:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2564dd21-5b35-4319-ba27-ffbea5cbc045" />
+<img width="1920" height="1080" alt="0003" src="https://github.com/user-attachments/assets/99bcd8c6-630c-40b7-b4c1-5fd21c0db0e5" />
+<img width="1920" height="1080" alt="0004" src="https://github.com/user-attachments/assets/15b7190b-0edb-4e0f-bc5c-90609bf4cf6f" />
+<img width="1920" height="1080" alt="0005" src="https://github.com/user-attachments/assets/8051f705-2f7f-49d1-8024-baa3ffc5d511" />
+<img width="1920" height="1080" alt="0006" src="https://github.com/user-attachments/assets/dfb69224-8ff9-4b94-a84f-454da3671a33" />
+<img width="1920" height="1080" alt="0007" src="https://github.com/user-attachments/assets/0b0a9980-0840-4b05-b047-e6746a423951" />
+<img width="1920" height="1080" alt="0008" src="https://github.com/user-attachments/assets/f15394b1-c2cb-4394-bc39-67f02d9256d3" />
+
 
