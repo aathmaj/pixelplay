@@ -4,6 +4,9 @@
   This journal is auto generated and updated by Hack Club Blueprint.
   To edit this file, please edit your journal entries on Blueprint.
   ==================================================================
+
+
+  ~17 HOURS TAKEN
 -->
 
 ## 10/10/2025 - Reasearch and basic concept made. Parts planned out.   
