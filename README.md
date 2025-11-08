@@ -31,8 +31,6 @@ It's designed to be an iPod for  music, and a Game Boy for everything up to the 
 
 ## Hardware: The Power Unit
 
-The core of this project is a single, custom-designed PCB that serves as a motherboard for all components.
-
 ### 1. Core Logic & Display
 The Pi Zero 2 W is connected to the display hat, with wiring from the remaining GPIO pins to respective components.
 
@@ -95,21 +93,22 @@ This is a high-fidelity 4-wire audio chain.
 |       |                                                                           |                              |                                  |          | TOTAL           |            | $89.88         |                                                                                                                                                                                                                                                                                                                                 |
 
 ## CART SCREENSHOTS:
-# Sharvi Electronics
+# **Sharvi Electronics**
 
 <img width="1901" height="852" alt="image" src="https://github.com/user-attachments/assets/0608c55b-8f7a-4825-af60-58744200fe86" />
 <img width="1900" height="788" alt="image" src="https://github.com/user-attachments/assets/a48a8c2f-b1f7-4b94-a6ad-5a00705d3e30" />
 <img width="1902" height="798" alt="image" src="https://github.com/user-attachments/assets/bb3d45b2-d454-400e-830c-708830b9aab9" />
 <img width="1898" height="349" alt="image" src="https://github.com/user-attachments/assets/7a1d3fe9-253e-4246-bf41-0c2d0fddc18e" />
 
-#Lion Circuits
+#**Lion Circuits**
 <img width="1903" height="943" alt="image" src="https://github.com/user-attachments/assets/c5e6cd55-6291-422c-aedc-a50242b6f341" />
 
-#3Ding
+#**3Ding**
 <img width="1899" height="645" alt="image" src="https://github.com/user-attachments/assets/91c5349b-eb0d-43d6-b3ec-8f685c73e3ae" />
 <img width="1138" height="551" alt="image" src="https://github.com/user-attachments/assets/35952a5c-ed0b-4ac3-b512-0e8b8e4632d1" />
 
 
 ## CASE:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2564dd21-5b35-4319-ba27-ffbea5cbc045" />
 
