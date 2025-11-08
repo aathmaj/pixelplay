@@ -117,7 +117,8 @@ This is a high-fidelity 4-wire audio chain.
 **3Ding**
 
 <img width="1899" height="645" alt="image" src="https://github.com/user-attachments/assets/91c5349b-eb0d-43d6-b3ec-8f685c73e3ae" />
-<img width="1138" height="551" alt="image" src="https://github.com/user-attachments/assets/35952a5c-ed0b-4ac3-b512-0e8b8e4632d1" />
+<img width="1120" height="525" alt="image" src="https://github.com/user-attachments/assets/d0a32c47-43a7-443e-ba74-a59bd36743b6" />
+
 
 
 ## CASE:
