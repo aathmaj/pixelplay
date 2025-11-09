@@ -102,8 +102,8 @@ This is a high-fidelity 4-wire audio chain made using the CJMCU4344.
 | 29    | CJMCU-4344 CS4344                                                         |                              | I2S DAC                          | 1        | ST2010SM1643    | 2.22       | $2.22          | [https://sharvielectronics.com/product/cjmcu-4344-cs4344-digital-to-analog-stereo-audio-conversion-module/](https://sharvielectronics.com/product/cjmcu-4344-cs4344-digital-to-analog-stereo-audio-conversion-module/)                                                                                                          |
 |       | GST                                                                       |                              |                                  |          |                 |            | $10.00         |                                                                                                                                                                                                                                                                                                                                 |
 |       | PCB                                                                       | LION CIRCUITS                |                                  |          |                 |            | $10.64         |                                                                                                                                                                                                                                                                                                                                 |
-|       | 3D PRINT                                                                  | 3DING                        |                                  |          |                 |            | $19.00         |                                                                                                                                                                                                                                                                                                                                 |
-|       |                                                                           |                              |                                  |          | TOTAL           |            | $89.88         |                                                                                                                                                                                                                                                                                                                                 |
+
+|       |                                                                           |                              |                                  |          | TOTAL           |            | $70.88         |                                                                                                                                                                                                                                                                                                                                 |
 
 ## CART SCREENSHOTS:
  **Sharvi Electronics**
@@ -117,10 +117,6 @@ This is a high-fidelity 4-wire audio chain made using the CJMCU4344.
 
 <img width="1903" height="943" alt="image" src="https://github.com/user-attachments/assets/c5e6cd55-6291-422c-aedc-a50242b6f341" />
 
-**3Ding**
-
-<img width="1899" height="645" alt="image" src="https://github.com/user-attachments/assets/91c5349b-eb0d-43d6-b3ec-8f685c73e3ae" />
-<img width="1120" height="525" alt="image" src="https://github.com/user-attachments/assets/d0a32c47-43a7-443e-ba74-a59bd36743b6" />
 
 
 
