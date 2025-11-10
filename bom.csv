@@ -30,4 +30,6 @@ Index,Manufacturer Part Number,Manufacturer Name,Description,Quantity,Part No on
 29,CJMCU-4344 CS4344,,I2S DAC,1,ST2010SM1643,2.22,$2.22,https://sharvielectronics.com/product/cjmcu-4344-cs4344-digital-to-analog-stereo-audio-conversion-module/
 ,GST,,,,,,$10.00,
 ,PCB ,LION CIRCUITS,,,,,$10.64,
-,,,,,TOTAL,,$70.88,
+,PRINT(SHIPPING) ,PRINTLEGION,,,,,$6.00,
+,,,,,TOTAL,,$76.88,
+
